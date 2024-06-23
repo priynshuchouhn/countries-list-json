@@ -1,6 +1,6 @@
 {
   "name": "countries-list-json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple npm package for a list of countries in JSON format",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,12 @@
     "list"
   ],
   "author": "Priyanshu Chouhan",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priynshuchouhn/countries-list-json.git"
+  },"bugs": {
+    "url": "https://github.com/priynshuchouhn/countries-list-json/issues"
+  },
+  "homepage": "https://github.com/priynshuchouhn/countries-list-json#readme"
 }
