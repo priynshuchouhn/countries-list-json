@@ -1,6 +1,6 @@
 {
   "name": "countries-list-json",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple npm package for a list of countries in JSON format",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,6 @@
   },"bugs": {
     "url": "https://github.com/priynshuchouhn/countries-list-json/issues"
   },
+  "types": "index.d.ts",
   "homepage": "https://github.com/priynshuchouhn/countries-list-json#readme"
 }
