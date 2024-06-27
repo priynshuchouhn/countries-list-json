@@ -1,6 +1,6 @@
 {
   "name": "countries-list-json",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "A simple npm package for a list of countries in JSON format",
   "main": "index.js",
   "scripts": {
